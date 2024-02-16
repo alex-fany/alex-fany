@@ -14,7 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![alt text](https://64.media.tumblr.com/d38712f3b865e148ba847f8fa3995cec/11bf94d97e25d08d-93/s400x600/059639091314ed2846e8be8ce1ad0104ceea519f.gifv) 
-![alt text](https://64.media.tumblr.com/d38712f3b865e148ba847f8fa3995cec/11bf94d97e25d08d-93/s400x600/059639091314ed2846e8be8ce1ad0104ceea519f.gifv)
 
+<div align="center">
+  <img src="https://64.media.tumblr.com/976af9e0e299bbc1a4d66be839694ae9/5f5db224a7ccd749-af/s400x600/51c616e7bb19c517fe03f23b89802fbd8bd5e4ed.gifv">
+  <img src="https://64.media.tumblr.com/976af9e0e299bbc1a4d66be839694ae9/5f5db224a7ccd749-af/s400x600/51c616e7bb19c517fe03f23b89802fbd8bd5e4ed.gifv">
+  <img src="https://64.media.tumblr.com/82a1de5b6dd3b51bd6ff7f472211db17/b907589d2815b212-55/s640x960/7f879d532471eba19856dd587d51e0d0a5f2d741.gifv">
+  <img src="https://64.media.tumblr.com/160be8ff70c9307fee63e88462eac1d5/aa31ac07a4e473fa-a2/s500x750/22f570f8eec9d542c0b63b9bf61f6c61a5b52956.gifv">
+  <!--
+  ![alt text](https://64.media.tumblr.com/976af9e0e299bbc1a4d66be839694ae9/5f5db224a7ccd749-af/s400x600/51c616e7bb19c517fe03f23b89802fbd8bd5e4ed.gifv) 
+  ![alt text](https://64.media.tumblr.com/976af9e0e299bbc1a4d66be839694ae9/5f5db224a7ccd749-af/s400x600/51c616e7bb19c517fe03f23b89802fbd8bd5e4ed.gifv) Corazones azules
+  ![alt text](https://64.media.tumblr.com/82a1de5b6dd3b51bd6ff7f472211db17/b907589d2815b212-55/s640x960/7f879d532471eba19856dd587d51e0d0a5f2d741.gifv) 
+  ![alt text](https://64.media.tumblr.com/160be8ff70c9307fee63e88462eac1d5/aa31ac07a4e473fa-a2/s500x750/22f570f8eec9d542c0b63b9bf61f6c61a5b52956.gifv)
+  ![alt text](https://64.media.tumblr.com/ccd37b36e57bf4afb6cf11591a243415/09dab327e86153b4-1c/s500x750/4b947295bd5d4cff38fd58bd0ba31470c837f7c9.gifv)
+  ![alt text](https://64.media.tumblr.com/ccd37b36e57bf4afb6cf11591a243415/09dab327e86153b4-1c/s500x750/4b947295bd5d4cff38fd58bd0ba31470c837f7c9.gifv)
+  -->
+</div>
 <!-- ![alt text](https://64.media.tumblr.com/4f96533ec8ce8d71ffe260c6a38f8e57/372fb4ade1723d58-94/s2048x3072/da6231d3786bca47594228eb08c2418387cd724e.pnj) -->
+
+
