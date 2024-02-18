@@ -1,4 +1,4 @@
-### <img src="https://64.media.tumblr.com/7ebfbbff45c8db5083b2db218f8a13cc/ffef7e8029b7971b-37/s250x400/339552c99b9afa2f23841c7ec097740e1cba8eab.gifv"> Hi there 👋 <img src="https://64.media.tumblr.com/ea10ef918af754264c5a36a5e60d14c0/082497a4202676db-1f/s75x75_c1/283ff08180553239fb9da44bb8a9f39426c19914.gifv"> <img src="https://64.media.tumblr.com/0b07f7e686748319f8c2ec135851d67c/ddb75fe1265919cb-65/s250x400/4996505c492a00628315ec4e380d86a884f50ece.gifv">
+### <img src="https://64.media.tumblr.com/7ebfbbff45c8db5083b2db218f8a13cc/ffef7e8029b7971b-37/s250x400/339552c99b9afa2f23841c7ec097740e1cba8eab.gifv"> <img src="https://64.media.tumblr.com/51b609db765520d5542035b15965f137/979aeaa541231801-8f/s75x75_c1/1d3ef005d773711806f946d968d8b53bd849aa57.gifv"> <img src="https://64.media.tumblr.com/7ed0d0793dcf3829dbf6ef54bdacd596/082497a4202676db-1c/s75x75_c1/b7f36355f5901b05df1f37ecd43b31847a83ecb4.gifv"> <img src="https://64.media.tumblr.com/2220d5fdb1f84ecad00ee320afe33962/fcf30a7d52b1c113-6d/s100x200/77973073342760216a27a39b50c9470b7083c86f.gifv"> <img src="https://64.media.tumblr.com/ea10ef918af754264c5a36a5e60d14c0/082497a4202676db-1f/s75x75_c1/283ff08180553239fb9da44bb8a9f39426c19914.gifv"> <img src="https://64.media.tumblr.com/5845d6fb49c1ca738a051caa925a9e79/fd250c5745ab9525-04/s250x400/07a4a3bcac650f5799de4a7af3163e0a17ca48a0.gifv"> <img src="https://64.media.tumblr.com/0b07f7e686748319f8c2ec135851d67c/ddb75fe1265919cb-65/s250x400/4996505c492a00628315ec4e380d86a884f50ece.gifv">
 
 <!--
 **alex-fany/alex-fany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,10 +31,6 @@ Here are some ideas to get you started:
 
 <!-- ![alt text](https://64.media.tumblr.com/4f96533ec8ce8d71ffe260c6a38f8e57/372fb4ade1723d58-94/s2048x3072/da6231d3786bca47594228eb08c2418387cd724e.pnj) -->
 
-<div align="center">
-  <img src="https://64.media.tumblr.com/160be8ff70c9307fee63e88462eac1d5/aa31ac07a4e473fa-a2/s500x750/22f570f8eec9d542c0b63b9bf61f6c61a5b52956.gifv">
-  
-
   <!-- <img src="https://64.media.tumblr.com/9c2ef15c126dc1fc1ab1db548a8ee803/05a796fda372b471-db/s250x400/dd9c831976cf0b8a1ed97d277601b29506718d00.gifv" width="200">
    <img src="https://64.media.tumblr.com/4887e84b780bdfef6da8c19e8e9cbedf/e680a99714cb44e7-a7/s100x200/e9f40332f77d9b2bfc556e0de9421caf55ff6a32.gifv"> 
    <img src="https://64.media.tumblr.com/bbf64ff6b6e45e5b9685a3371665618b/42dbc5f8f187cb8c-46/s1280x1920/eac11372a9f506db44e5ee27665645ecd97f7651.gifv">
@@ -42,7 +38,7 @@ Here are some ideas to get you started:
   <img src="https://64.media.tumblr.com/084100575af75b7726a5d8ef641774da/817b740b83129a0a-f0/s100x200/43f78d9ff62c6f9476dcaf5677b698f50299ec8f.gifv">
   <img src="https://64.media.tumblr.com/076ab4194d5d09881bcb03bde533f7bf/cefa63b1b6a16a03-73/s250x400/c4a977ac952658afc0caf567891ef7b833a83dc2.gifv">
    <img src=""> -->
-</div>
+
 
 <div align="center">
   <img src="https://64.media.tumblr.com/7ed0d0793dcf3829dbf6ef54bdacd596/082497a4202676db-1c/s75x75_c1/b7f36355f5901b05df1f37ecd43b31847a83ecb4.gifv">
@@ -66,8 +62,9 @@ Here are some ideas to get you started:
     <img src="https://64.media.tumblr.com/b57298f9990a8c3807d088d767e7d6ae/227ca944526be4dc-d8/s75x75_c1/7c8ef01f3b0e5790ae2f733ec404e3d3b06eb8d2.webp">
     <img src="https://64.media.tumblr.com/05d5c2d5eb6764f9d0f80a073ff20a91/eb7088c9bc9a98b3-58/s75x75_c1/b976ef5411335c0f514e95ad562e0b124290ca6e.gifv">
     <img src="https://64.media.tumblr.com/62a881b84caeae153d62753d47f500ae/eb7088c9bc9a98b3-f1/s75x75_c1/8cf446a667d4d1b418dfc2e341ac647466693e44.gifv">
-    
+    <img src="https://64.media.tumblr.com/d8d4ea65be6950548f6751ec88a49345/612c9d510352e8b8-c5/s75x75_c1/aa4c5bc559d7a08d136af33682906fb65e9f2a41.gifv">
 </div>
 
-
-  
+<div align="center">
+  <img src="https://64.media.tumblr.com/160be8ff70c9307fee63e88462eac1d5/aa31ac07a4e473fa-a2/s500x750/22f570f8eec9d542c0b63b9bf61f6c61a5b52956.gifv">
+</div>
