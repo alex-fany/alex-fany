@@ -1,4 +1,4 @@
-### <img src="https://64.media.tumblr.com/7ebfbbff45c8db5083b2db218f8a13cc/ffef7e8029b7971b-37/s250x400/339552c99b9afa2f23841c7ec097740e1cba8eab.gifv"> <img src="https://64.media.tumblr.com/2220d5fdb1f84ecad00ee320afe33962/fcf30a7d52b1c113-6d/s100x200/77973073342760216a27a39b50c9470b7083c86f.gifv"> <img src="https://64.media.tumblr.com/ea10ef918af754264c5a36a5e60d14c0/082497a4202676db-1f/s75x75_c1/283ff08180553239fb9da44bb8a9f39426c19914.gifv"> <img src="https://64.media.tumblr.com/5845d6fb49c1ca738a051caa925a9e79/fd250c5745ab9525-04/s250x400/07a4a3bcac650f5799de4a7af3163e0a17ca48a0.gifv"> <img src="https://64.media.tumblr.com/0b07f7e686748319f8c2ec135851d67c/ddb75fe1265919cb-65/s250x400/4996505c492a00628315ec4e380d86a884f50ece.gifv">
+### <img src="https://64.media.tumblr.com/7ebfbbff45c8db5083b2db218f8a13cc/ffef7e8029b7971b-37/s250x400/339552c99b9afa2f23841c7ec097740e1cba8eab.gifv" width="300"> <img src="https://64.media.tumblr.com/2220d5fdb1f84ecad00ee320afe33962/fcf30a7d52b1c113-6d/s100x200/77973073342760216a27a39b50c9470b7083c86f.gifv" width="150">  <img src="https://64.media.tumblr.com/0b07f7e686748319f8c2ec135851d67c/ddb75fe1265919cb-65/s250x400/4996505c492a00628315ec4e380d86a884f50ece.gifv" width="300">
 
 <!--
 **alex-fany/alex-fany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   <img src="https://64.media.tumblr.com/976af9e0e299bbc1a4d66be839694ae9/5f5db224a7ccd749-af/s400x600/51c616e7bb19c517fe03f23b89802fbd8bd5e4ed.gifv">
   <img src="https://64.media.tumblr.com/976af9e0e299bbc1a4d66be839694ae9/5f5db224a7ccd749-af/s400x600/51c616e7bb19c517fe03f23b89802fbd8bd5e4ed.gifv">
   <img src="https://64.media.tumblr.com/82a1de5b6dd3b51bd6ff7f472211db17/b907589d2815b212-55/s640x960/7f879d532471eba19856dd587d51e0d0a5f2d741.gifv">
+  
   <!--
   ![alt text](https://64.media.tumblr.com/976af9e0e299bbc1a4d66be839694ae9/5f5db224a7ccd749-af/s400x600/51c616e7bb19c517fe03f23b89802fbd8bd5e4ed.gifv) 
   ![alt text](https://64.media.tumblr.com/976af9e0e299bbc1a4d66be839694ae9/5f5db224a7ccd749-af/s400x600/51c616e7bb19c517fe03f23b89802fbd8bd5e4ed.gifv) Corazones azules
@@ -26,6 +27,7 @@ Here are some ideas to get you started:
   ![alt text](https://64.media.tumblr.com/160be8ff70c9307fee63e88462eac1d5/aa31ac07a4e473fa-a2/s500x750/22f570f8eec9d542c0b63b9bf61f6c61a5b52956.gifv)
   ![alt text](https://64.media.tumblr.com/ccd37b36e57bf4afb6cf11591a243415/09dab327e86153b4-1c/s500x750/4b947295bd5d4cff38fd58bd0ba31470c837f7c9.gifv)
   ![alt text](https://64.media.tumblr.com/ccd37b36e57bf4afb6cf11591a243415/09dab327e86153b4-1c/s500x750/4b947295bd5d4cff38fd58bd0ba31470c837f7c9.gifv)
+  <img src="https://64.media.tumblr.com/5845d6fb49c1ca738a051caa925a9e79/fd250c5745ab9525-04/s250x400/07a4a3bcac650f5799de4a7af3163e0a17ca48a0.gifv">
   -->
 </div>
 
@@ -63,6 +65,7 @@ Here are some ideas to get you started:
     <img src="https://64.media.tumblr.com/05d5c2d5eb6764f9d0f80a073ff20a91/eb7088c9bc9a98b3-58/s75x75_c1/b976ef5411335c0f514e95ad562e0b124290ca6e.gifv">
     <img src="https://64.media.tumblr.com/62a881b84caeae153d62753d47f500ae/eb7088c9bc9a98b3-f1/s75x75_c1/8cf446a667d4d1b418dfc2e341ac647466693e44.gifv">
     <img src="https://64.media.tumblr.com/d8d4ea65be6950548f6751ec88a49345/612c9d510352e8b8-c5/s75x75_c1/aa4c5bc559d7a08d136af33682906fb65e9f2a41.gifv">
+  <img src="https://64.media.tumblr.com/ea10ef918af754264c5a36a5e60d14c0/082497a4202676db-1f/s75x75_c1/283ff08180553239fb9da44bb8a9f39426c19914.gifv"> 
 </div>
 
 <div align="center">
