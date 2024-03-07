@@ -43,7 +43,8 @@ Here are some ideas to get you started:
   <img src="https://64.media.tumblr.com/076ab4194d5d09881bcb03bde533f7bf/cefa63b1b6a16a03-73/s250x400/c4a977ac952658afc0caf567891ef7b833a83dc2.gifv">
    <img src=""> -->
 <div align="center">
-  <img src="https://64.media.tumblr.com/c4c96348cc6d1cb41bc56ea7fd72cbdc/9c086c04a39ad819-f1/s500x750/efecd60ce3936bcf8acaed7848b5a5b76a4bfc1c.gifv">
+  <img src="https://64.media.tumblr.com/c4c96348cc6d1cb41bc56ea7fd72cbdc/9c086c04a39ad819-f1/s500x750/efecd60ce3936bcf8acaed7848b5a5b76a4bfc1c.gifv" width="465">
+  <img src="https://64.media.tumblr.com/b4211bd8557562290d79eb163c75aa52/e74a7ee8d1549c90-02/s500x750/ccf6fa53b04886913140ceaa125f61e44afe28f5.gifv" width="330">
 </div>
 <!--
 <div align="center">
