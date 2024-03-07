@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+  <!--
 <div align="center">
   <img src="https://64.media.tumblr.com/976af9e0e299bbc1a4d66be839694ae9/5f5db224a7ccd749-af/s400x600/51c616e7bb19c517fe03f23b89802fbd8bd5e4ed.gifv">
   <img src="https://64.media.tumblr.com/976af9e0e299bbc1a4d66be839694ae9/5f5db224a7ccd749-af/s400x600/51c616e7bb19c517fe03f23b89802fbd8bd5e4ed.gifv">
-  
+  -->
   
   <!--
   <img src="https://64.media.tumblr.com/82a1de5b6dd3b51bd6ff7f472211db17/b907589d2815b212-55/s640x960/7f879d532471eba19856dd587d51e0d0a5f2d741.gifv">
@@ -42,9 +43,9 @@ Here are some ideas to get you started:
   <img src="https://64.media.tumblr.com/076ab4194d5d09881bcb03bde533f7bf/cefa63b1b6a16a03-73/s250x400/c4a977ac952658afc0caf567891ef7b833a83dc2.gifv">
    <img src=""> -->
 <div align="center">
-  <img src="https://64.media.tumblr.com/160be8ff70c9307fee63e88462eac1d5/aa31ac07a4e473fa-a2/s500x750/22f570f8eec9d542c0b63b9bf61f6c61a5b52956.gifv">
+  <img src="https://64.media.tumblr.com/c4c96348cc6d1cb41bc56ea7fd72cbdc/9c086c04a39ad819-f1/s500x750/efecd60ce3936bcf8acaed7848b5a5b76a4bfc1c.gifv">
 </div>
-
+<!--
 <div align="center">
   <img src="https://64.media.tumblr.com/7ed0d0793dcf3829dbf6ef54bdacd596/082497a4202676db-1c/s75x75_c1/b7f36355f5901b05df1f37ecd43b31847a83ecb4.gifv">
   <img src="https://64.media.tumblr.com/e4dc7c7619229eb531aee6031e49e5bf/46aa0f91c599f5b5-93/s75x75_c1/a84495a8180145b7de97e7ef74bebcf2461eed33.gifv">
@@ -70,5 +71,5 @@ Here are some ideas to get you started:
     <img src="https://64.media.tumblr.com/d8d4ea65be6950548f6751ec88a49345/612c9d510352e8b8-c5/s75x75_c1/aa4c5bc559d7a08d136af33682906fb65e9f2a41.gifv">
   <img src="https://64.media.tumblr.com/ea10ef918af754264c5a36a5e60d14c0/082497a4202676db-1f/s75x75_c1/283ff08180553239fb9da44bb8a9f39426c19914.gifv"> 
 </div>
-
+-->
 
