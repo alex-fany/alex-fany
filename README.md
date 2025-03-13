@@ -1,19 +1,5 @@
 ### <div align="center"> <img src="https://64.media.tumblr.com/7ebfbbff45c8db5083b2db218f8a13cc/ffef7e8029b7971b-37/s250x400/339552c99b9afa2f23841c7ec097740e1cba8eab.gifv" width="300"> <img src="https://64.media.tumblr.com/2220d5fdb1f84ecad00ee320afe33962/fcf30a7d52b1c113-6d/s100x200/77973073342760216a27a39b50c9470b7083c86f.gifv" width="150">  <img src="https://64.media.tumblr.com/0b07f7e686748319f8c2ec135851d67c/ddb75fe1265919cb-65/s250x400/4996505c492a00628315ec4e380d86a884f50ece.gifv" width="300"> </div>
 
-<!--
-**alex-fany/alex-fany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
   <!--
 <div align="center">
@@ -43,8 +29,11 @@ Here are some ideas to get you started:
   <img src="https://64.media.tumblr.com/076ab4194d5d09881bcb03bde533f7bf/cefa63b1b6a16a03-73/s250x400/c4a977ac952658afc0caf567891ef7b833a83dc2.gifv">
    <img src=""> -->
 <div align="center">
+   <a href="https://data.typeracer.com/pit/profile?user=fanybolas&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=fanybolas" border="0" alt="TypeRacer.com scorecard for user fanybolas"/></a>
   <img src="https://64.media.tumblr.com/2642a1345d49a1cb30c7d983e0b33e5f/f9f725a077bae611-a6/s1280x1920/5f44b652867a1298ace4beac19a9a0c57868c613.gifv">
 </div>
+
+ 
 <!--
 <div align="center">
   <img src="https://64.media.tumblr.com/7ed0d0793dcf3829dbf6ef54bdacd596/082497a4202676db-1c/s75x75_c1/b7f36355f5901b05df1f37ecd43b31847a83ecb4.gifv">
