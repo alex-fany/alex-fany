@@ -30,7 +30,7 @@
    <img src=""> -->
 <div align="center">
    <a href="https://data.typeracer.com/pit/profile?user=fanybolas&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=fanybolas" border="0" alt="TypeRacer.com scorecard for user fanybolas"/></a>
-  <img src="https://64.media.tumblr.com/2642a1345d49a1cb30c7d983e0b33e5f/f9f725a077bae611-a6/s1280x1920/5f44b652867a1298ace4beac19a9a0c57868c613.gifv">
+  <img src="https://64.media.tumblr.com/2642a1345d49a1cb30c7d983e0b33e5f/f9f725a077bae611-a6/s1280x1920/5f44b652867a1298ace4beac19a9a0c57868c613.gifv" width="700">
 </div>
 
  
